@@ -227,6 +227,7 @@ input {
     font-family: "Lato", Times, Times New Roman, serif;
     font-size: 16px;
     color: #666;
+    border: 1px solid #ccc;
 }
 
 ::placeholder {
@@ -330,7 +331,7 @@ h4 {
 footer {
     background: #666;
     color: #fff;
-    position: absolute;
+    position: fixed;
     right: 0;
     bottom: 0;
     left: 0;
