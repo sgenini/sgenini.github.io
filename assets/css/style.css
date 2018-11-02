@@ -23,6 +23,11 @@ header {
     margin: 0 auto;
 }
 
+.invisible {
+    visibility: none;
+    padding: 50px;
+}
+
 section {
     width: 960px;
     /* margin: 15px auto; */
