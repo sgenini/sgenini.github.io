@@ -117,6 +117,7 @@ p {
     line-height: 1.5;
     margin-bottom: 25px;
     margin-top: 0;
+    /* word-spacing: 3px; */
     /* text-align: justify; */
 }
 
