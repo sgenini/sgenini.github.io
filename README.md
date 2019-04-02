@@ -1,2 +1,0 @@
-# sgenini.github.io
-Portfolio
